@@ -10,3 +10,8 @@ The `find_common_elements(list1, list2, list3)` Python function is designed to f
 list1 = [2, 4, 6, 8, 10]
 list2 = [4, 6, 8, 12, 14]
 list3 = [0, 4, 6, 8, 16]
+
+ **Output**:
+
+[4, 6, 8]
+
